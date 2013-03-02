@@ -1,0 +1,36 @@
+.h1 { 
+	margin-bottom:0; 
+	padding-bottom:0;
+}
+.style1 {
+	font-family: "Trebuchet MS";
+	font-size: 11px;
+	 font-weight: bold;
+	color: #324A6A;
+	margin-bottom:0; 
+	padding-bottom:0;
+	
+}
+.style2 {
+	font-family: "Trebuchet MS";
+	font-size: 10px;
+	color: #324A6A;
+}
+body {
+	background-image: url(tooltipgradient.png);
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
